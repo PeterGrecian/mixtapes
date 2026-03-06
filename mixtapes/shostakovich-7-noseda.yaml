@@ -1,0 +1,52 @@
+title: "Shostakovich: Symphony No. 7 in C Major, Op. 60 'Leningrad'"
+context: "serious"
+artwork: null
+
+tracks:
+  - search_query: "Shostakovich Symphony No. 7 I. Allegretto Noseda"
+    composer: "Dmitri Shostakovich"
+    work: "Symphony No. 7 in C Major, Op. 60 'Leningrad'"
+    opus: "Op. 60"
+    movement_number: 1
+    movement_name: "Allegretto"
+    conductor: "Gianandrea Noseda"
+    ensemble: "Mariinsky Theatre Orchestra"
+    year_recorded: 2006
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Shostakovich Symphony No. 7 II. Moderato Noseda"
+    composer: "Dmitri Shostakovich"
+    work: "Symphony No. 7 in C Major, Op. 60 'Leningrad'"
+    opus: "Op. 60"
+    movement_number: 2
+    movement_name: "Moderato (Poco Allegretto)"
+    conductor: "Gianandrea Noseda"
+    ensemble: "Mariinsky Theatre Orchestra"
+    year_recorded: 2006
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Shostakovich Symphony No. 7 III. Adagio Noseda"
+    composer: "Dmitri Shostakovich"
+    work: "Symphony No. 7 in C Major, Op. 60 'Leningrad'"
+    opus: "Op. 60"
+    movement_number: 3
+    movement_name: "Adagio"
+    conductor: "Gianandrea Noseda"
+    ensemble: "Mariinsky Theatre Orchestra"
+    year_recorded: 2006
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Shostakovich Symphony No. 7 IV. Allegro Noseda"
+    composer: "Dmitri Shostakovich"
+    work: "Symphony No. 7 in C Major, Op. 60 'Leningrad'"
+    opus: "Op. 60"
+    movement_number: 4
+    movement_name: "Allegro (Con Fuoco)"
+    conductor: "Gianandrea Noseda"
+    ensemble: "Mariinsky Theatre Orchestra"
+    year_recorded: 2006
+    gap_after: 0
+    interruptible: false
