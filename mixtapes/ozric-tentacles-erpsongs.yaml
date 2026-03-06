@@ -1,0 +1,130 @@
+title: "Ozric Tentacles - Erpsongs"
+context: "serious"
+artwork: null
+
+tracks:
+  - search_query: "Ozric Tentacles Velmwend Erpsongs"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 1
+    movement_name: "Velmwend"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Fast Dots"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 2
+    movement_name: "Fast Dots"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Thyroid"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 3
+    movement_name: "Thyroid"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Spiral Mind"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 4
+    movement_name: "Spiral Mind"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Synth On A Plinth"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 5
+    movement_name: "Synth On A Plinth"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Dharma Reggae"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 6
+    movement_name: "Dharma Reggae"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Tidal Otherness"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 7
+    movement_name: "Tidal Otherness"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Erpriff Glastonbury"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 8
+    movement_name: "Erpriff (Glastonbury Oct '85)"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Descension"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 9
+    movement_name: "Descension"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Misty Gliss"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 10
+    movement_name: "Misty Gliss"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Dots Thots"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 11
+    movement_name: "Dots Thots"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Clock Drops"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 12
+    movement_name: "Clock Drops"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Five Jam"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 13
+    movement_name: "Five Jam"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Oddhamshaw"
+    composer: "Ozric Tentacles"
+    work: "Erpsongs"
+    movement_number: 14
+    movement_name: "Oddhamshaw"
+    year_recorded: 1985
+    gap_after: 0
+    interruptible: false

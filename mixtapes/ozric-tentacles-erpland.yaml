@@ -1,0 +1,67 @@
+title: "Ozric Tentacles - Erpland"
+context: "serious"
+artwork: null
+
+tracks:
+  - search_query: "Ozric Tentacles Spyroid Erpland"
+    composer: "Ozric Tentacles"
+    work: "Erpland"
+    movement_number: 1
+    movement_name: "Spyroid"
+    year_recorded: 1990
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Oolite Grove"
+    composer: "Ozric Tentacles"
+    work: "Erpland"
+    movement_number: 2
+    movement_name: "Oolite Grove"
+    year_recorded: 1990
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Afroclonk"
+    composer: "Ozric Tentacles"
+    work: "Erpland"
+    movement_number: 3
+    movement_name: "Afroclonk"
+    year_recorded: 1990
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Curious Corn"
+    composer: "Ozric Tentacles"
+    work: "Erpland"
+    movement_number: 4
+    movement_name: "Curious Corn"
+    year_recorded: 1990
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Oddentity"
+    composer: "Ozric Tentacles"
+    work: "Erpland"
+    movement_number: 5
+    movement_name: "Oddentity"
+    year_recorded: 1990
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Papyrus"
+    composer: "Ozric Tentacles"
+    work: "Erpland"
+    movement_number: 6
+    movement_name: "Papyrus"
+    year_recorded: 1990
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Meander"
+    composer: "Ozric Tentacles"
+    work: "Erpland"
+    movement_number: 7
+    movement_name: "Meander"
+    year_recorded: 1990
+    gap_after: 0
+    interruptible: false

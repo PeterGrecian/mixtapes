@@ -1,0 +1,67 @@
+title: "Ozric Tentacles - Pungent Effulgent"
+context: "serious"
+artwork: null
+
+tracks:
+  - search_query: "Ozric Tentacles Dissolution The Clouds Disperse"
+    composer: "Ozric Tentacles"
+    work: "Pungent Effulgent"
+    movement_number: 1
+    movement_name: "Dissolution (The Clouds Disperse)"
+    year_recorded: 1989
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles O-I"
+    composer: "Ozric Tentacles"
+    work: "Pungent Effulgent"
+    movement_number: 2
+    movement_name: "O-I"
+    year_recorded: 1989
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Phalarn Dawn"
+    composer: "Ozric Tentacles"
+    work: "Pungent Effulgent"
+    movement_number: 3
+    movement_name: "Phalarn Dawn"
+    year_recorded: 1989
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles The Domes Of G'Bal"
+    composer: "Ozric Tentacles"
+    work: "Pungent Effulgent"
+    movement_number: 4
+    movement_name: "The Domes Of G'Bal"
+    year_recorded: 1989
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Ayurvedic"
+    composer: "Ozric Tentacles"
+    work: "Pungent Effulgent"
+    movement_number: 5
+    movement_name: "Ayurvedic"
+    year_recorded: 1989
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Kick Muck"
+    composer: "Ozric Tentacles"
+    work: "Pungent Effulgent"
+    movement_number: 6
+    movement_name: "Kick Muck"
+    year_recorded: 1989
+    gap_after: 0
+    interruptible: false
+
+  - search_query: "Ozric Tentacles Agog In The Ether"
+    composer: "Ozric Tentacles"
+    work: "Pungent Effulgent"
+    movement_number: 7
+    movement_name: "Agog In The Ether"
+    year_recorded: 1989
+    gap_after: 0
+    interruptible: false

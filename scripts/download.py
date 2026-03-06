@@ -26,7 +26,8 @@ def download_mixtape(yaml_path, output_dir, cookies_path=None):
 
     # Derive slug from filename
     slug = yaml_path.stem
-    raw_dir = output_dir / slug / 'raw'
+    # Use /var/tmp for raw downloads (auto-cleaned, never synced)
+    raw_dir = Path(f'/var/tmp/mixtapes-{slug}')
     raw_dir.mkdir(parents=True, exist_ok=True)
 
     tracks = mixtape.get('tracks', [])

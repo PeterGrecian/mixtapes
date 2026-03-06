@@ -46,8 +46,8 @@ def build_mixtape(yaml_path, output_base, cookies_path=None):
     # Derive slug from filename
     slug = yaml_path.stem
     output_dir = output_base / slug
-    raw_dir = output_dir / 'raw'
-    final_dir = output_dir / 'tracks'
+    # Raw files stored in /var/tmp (auto-cleaned, never synced)
+    raw_dir = Path(f'/var/tmp/mixtapes-{slug}')
 
     print(f"\n=== Building Mixtape: {mixtape['title']} ===\n")
 
@@ -57,6 +57,8 @@ def build_mixtape(yaml_path, output_base, cookies_path=None):
 
     # Step 2: Process each track
     print("\nStep 2: Processing tracks...")
+    # Put files directly in mixtape folder (no tracks/ subfolder) for Syncthing compatibility
+    final_dir = output_dir
     final_dir.mkdir(parents=True, exist_ok=True)
 
     tracks = mixtape.get('tracks', [])
